@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-css-price-option-responsive/static/css/main.750706c2.css",
+    "main.js": "/tailwind-css-price-option-responsive/static/js/main.66c200eb.js",
+    "static/js/787.a5b4ca95.chunk.js": "/tailwind-css-price-option-responsive/static/js/787.a5b4ca95.chunk.js",
+    "index.html": "/tailwind-css-price-option-responsive/index.html",
+    "main.750706c2.css.map": "/tailwind-css-price-option-responsive/static/css/main.750706c2.css.map",
+    "main.66c200eb.js.map": "/tailwind-css-price-option-responsive/static/js/main.66c200eb.js.map",
+    "787.a5b4ca95.chunk.js.map": "/tailwind-css-price-option-responsive/static/js/787.a5b4ca95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750706c2.css",
+    "static/js/main.66c200eb.js"
+  ]
+}
